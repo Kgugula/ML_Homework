@@ -1,6 +1,6 @@
 # ML_Homework
 
-For this homework activity we used supervised machine learning algorithms to classify transactions as either being a high loan risk (target=0) or a low loan risk (target=1)
+For this homework activity we used supervised machine learning algorithms to classify transactions as either being a high loan risk (target=0) or a low loan risk (target=1). 
 
 # Credit Risk Resampling #
 
